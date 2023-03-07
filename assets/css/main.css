@@ -1,0 +1,48 @@
+
+
+
+
+/*-GENERAL*/
+body{
+    height: 10000px;
+}
+
+
+/*-NAVBAR-*/
+#navbar{
+    backdrop-filter: blur(10px);
+}
+
+#navbar a{
+    color: white;
+}
+
+/*-HERO-*/
+#hero{
+    background-color: #06113C;
+    color: white;
+    background-image: url("/assets/img/hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    padding: 7%;
+}
+
+@media only screen and (max-width: 600px) {
+    #hero-img{
+        display: none;
+    }
+ }
+
+
+ /*-FEATURES-*/
+#features-text{
+    border: none;
+}
+#features-img{
+    border: none;
+    border-radius: 15px;
+}
+#features-img img{
+    border: none;
+    border-radius: 15px;
+}
