@@ -17,6 +17,14 @@ body{
 
 #navbar a{
     color: white;
+    font-weight: bold;
+}
+
+.form-btn{
+    background-color: #FF8C32;
+    border: none;
+    border-radius: 15px;
+    color: white;
 }
 
 /*-HERO-*/
