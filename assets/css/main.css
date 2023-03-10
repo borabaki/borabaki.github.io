@@ -56,3 +56,16 @@ body{
     border: none;
     border-radius: 15px;
 }
+
+/*--TİMER*/
+#timer-container{
+    background-color: #06113C;
+    padding: 3%;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+}
+#timer-card{
+    background-color: #06113C;
+    border: none;
+}
