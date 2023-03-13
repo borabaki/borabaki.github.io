@@ -5,7 +5,6 @@
 
 /*-GENERAL*/
 body{
-    height: 10000px;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -68,4 +67,23 @@ body{
 #timer-card{
     background-color: #06113C;
     border: none;
+}
+
+/*-ABOUT-*/
+#about{
+    margin-top: 5%;
+}
+#about-img{
+    border: none;
+}
+#about-text{
+    border: none;
+}
+
+/*-FOOTER-*/
+#footer{
+    color: white;
+}
+#footer a{
+    color: white;
 }
